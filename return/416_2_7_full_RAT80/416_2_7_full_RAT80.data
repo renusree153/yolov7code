@@ -1,0 +1,4 @@
+classes= 1
+train=416_2_7_full_RAT80/train.txt
+valid=416_2_7_full_RAT80/valid.txt
+names=416_2_7_full_RAT80/classes.names
